@@ -1,0 +1,29 @@
+{
+  "name": "absolutely-nothing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theguywhoise/absolutely-nothing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@mercuryworkshop/epoxy-transport": "3.0.1",
+    "@mercuryworkshop/libcurl-transport": "2.0.5",
+    "@mercuryworkshop/scramjet": "2.0.67-alpha.2",
+    "@mercuryworkshop/scramjet-controller": "0.0.14",
+    "@mercuryworkshop/scramjet-utils": "0.0.3",
+    "playwright": "^1.64.1"
+  },
+  "bugs": {
+    "url": "https://github.com/theguywhoise/absolutely-nothing/issues"
+  },
+  "homepage": "https://github.com/theguywhoise/absolutely-nothing#readme"
+}
